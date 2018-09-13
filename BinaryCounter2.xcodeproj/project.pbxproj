@@ -13,6 +13,7 @@
 		D0747E152149E2C700819C48 /* BinaryCounter2.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = D0747E132149E2C700819C48 /* BinaryCounter2.xcdatamodeld */; };
 		D0747E172149E2C700819C48 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D0747E162149E2C700819C48 /* Assets.xcassets */; };
 		D0747E1A2149E2C700819C48 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D0747E182149E2C700819C48 /* LaunchScreen.storyboard */; };
+		D0747E222149E3A300819C48 /* BinaryCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0747E212149E3A300819C48 /* BinaryCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		D0747E162149E2C700819C48 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D0747E192149E2C700819C48 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D0747E1B2149E2C700819C48 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D0747E212149E3A300819C48 /* BinaryCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinaryCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				D0747E0C2149E2C700819C48 /* AppDelegate.swift */,
 				D0747E0E2149E2C700819C48 /* ViewController.swift */,
 				D0747E102149E2C700819C48 /* Main.storyboard */,
+				D0747E212149E3A300819C48 /* BinaryCell.swift */,
 				D0747E162149E2C700819C48 /* Assets.xcassets */,
 				D0747E182149E2C700819C48 /* LaunchScreen.storyboard */,
 				D0747E1B2149E2C700819C48 /* Info.plist */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D0747E222149E3A300819C48 /* BinaryCell.swift in Sources */,
 				D0747E0F2149E2C700819C48 /* ViewController.swift in Sources */,
 				D0747E0D2149E2C700819C48 /* AppDelegate.swift in Sources */,
 				D0747E152149E2C700819C48 /* BinaryCounter2.xcdatamodeld in Sources */,
